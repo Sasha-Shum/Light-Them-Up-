@@ -1,0 +1,48 @@
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 675M (ID=0x1212)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects for the github\shumA_FINAL (5)\Final_2D_Shmup_Unity\shumA_FINAL (5)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects for the github\shumA_FINAL (5)\Final_2D_Shmup_Unity\shumA_FINAL (5)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects for the github\shumA_FINAL (5)\Final_2D_Shmup_Unity\shumA_FINAL (5)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects for the github\shumA_FINAL (5)\Final_2D_Shmup_Unity\shumA_FINAL (5)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects for the github\shumA_FINAL (5)\Final_2D_Shmup_Unity\shumA_FINAL (5)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projects for the github\shumA_FINAL (5)\Final_2D_Shmup_Unity\shumA_FINAL (5)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Projects for the github\shumA_FINAL (5)\Final_2D_Shmup_Unity\shumA_FINAL (5)_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.291638 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 160.
+Total: 0.508869 ms (FindLiveObjects: 0.005986 ms CreateObjectMapping: 0.006414 ms MarkObjects: 0.132562 ms  DeleteObjects: 0.010690 ms)
+
+UnloadTime: 0.289499 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 0.535810 ms (FindLiveObjects: 0.010690 ms CreateObjectMapping: 0.008124 ms MarkObjects: 0.163351 ms  DeleteObjects: 0.014111 ms)
+
+UnloadTime: 0.288644 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 552.
+Total: 0.856098 ms (FindLiveObjects: 0.023091 ms CreateObjectMapping: 0.016677 ms MarkObjects: 0.217659 ms  DeleteObjects: 0.242461 ms)
+
+Platform assembly: D:\Projects for the github\shumA_FINAL (5)\Final_2D_Shmup_Unity\shumA_FINAL (5)_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.627748 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 174.
+Total: 0.624755 ms (FindLiveObjects: 0.008124 ms CreateObjectMapping: 0.008124 ms MarkObjects: 0.163779 ms  DeleteObjects: 0.111609 ms)
+
